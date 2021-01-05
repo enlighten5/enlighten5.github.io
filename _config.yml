@@ -1,6 +1,6 @@
 title: Zhenxiao Qi
 url: "https://enlighten5.github.io"
-baseurl: ""
+baseurl: "https://enlighten5.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
