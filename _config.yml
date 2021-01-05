@@ -1,4 +1,4 @@
-title: Researcher
+title: Zhenxiao Qi
 url: "https://enlighten5.github.io"
 baseurl: ""
 
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 remote_theme: ankitsultana/researcher@gem
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -18,8 +18,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  - name: "Resume"
-   link: "resume.pdf"
+   link: ""
  - name: "Contact"
    link: "contact"
+ - name: "Teaching"
+   link: "teaching"
