@@ -18,9 +18,9 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "index"
  - name: "Resume"
-   link: ""
+   link: "index"
  - name: "Contact"
    link: "contact"
  - name: "Teaching"
