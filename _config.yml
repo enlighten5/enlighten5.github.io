@@ -1,3 +1,4 @@
+remote_theme: ankitsultana/researcher@gem
 title: Zhenxiao Qi
 url: "https://enlighten5.github.io"
 baseurl: "https://enlighten5.github.io"
@@ -6,7 +7,6 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
-remote_theme: ankitsultana/researcher@gem
 
 footer: no
 footer_url: "https://github.com/ankitsultana"
