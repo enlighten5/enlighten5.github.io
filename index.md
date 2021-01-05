@@ -6,44 +6,32 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-
-testing!
-
-
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am lucky to be supervised by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research interests focus on computer security. I work on various program analysis techniques (dynamic emulation/virtualization, logic inference, etc.) to solve security-related problems, including vulnerability/gadget discovery, memory forensics, etc.   
+
+
+Current research interest: bridge the semantic gap between raw memory bytes and structural kernel objects for memroy fornesics. 
+
+## News
+
+**Dec/2020**:  Our work SpecTaint is accepted to NDSS'21.    
+**Jul/2020**:    Passed my Ph.D. candidacy exam!    
+**Aug/2019**:  Our paper DECAF++ was accepted to RAID'19.    
+**May/2019**:  Awarded the 2019-2020 Outstanding Teaching Assistant in CSE department.    
+**Sep/2018**:  Started my Ph.D. career at University of California, Riverside.    
+**Jun/2018**:  Obtained my bachelor degree of engineering from Xidian University.    
+**Jul/2017**:    Attended University of California, Riverside as a exchange student. 
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. [**NDSS'21**] **Zhenxiao Qi**, Qian Feng, Yueqiang Cheng, Mengjia Yan, Peng Li, Heng Yin, and Tao Wei, [SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets](void), *to appear in the Network and Distributed System Security Symposium*, February 2021.
+2. [**RAID'19**] Ali Davanian, **Zhenxiao Qi**, Yu Qu, and Heng Yin, [DECAF++: Elastic Whole-System Dynamic Taint Analysis](void), *in the 22nd International Symposium on Research in Attacks, Intrusions and Defenses*, September 2019.
 
-## Typography
+## Professional Services
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Reviewer: [Cybersecurity](https://cybersecurity.springeropen.com/)
+* Sub-reviewer: USENIX Security'21, DIMVA'19
+* Artifact Evaluation: ACSAC'19 / '20
