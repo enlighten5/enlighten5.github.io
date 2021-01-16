@@ -27,8 +27,8 @@ Current research interest: bridge the semantic gap between raw memory bytes and 
 
 ## Publications
 
-1. [**NDSS'21**] **Zhenxiao Qi**, Qian Feng, Yueqiang Cheng, Mengjia Yan, Peng Li, Heng Yin, and Tao Wei, [SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets](void), *to appear in the Network and Distributed System Security Symposium*, February 2021.
-2. [**RAID'19**] Ali Davanian, **Zhenxiao Qi**, Yu Qu, and Heng Yin, [DECAF++: Elastic Whole-System Dynamic Taint Analysis](void), *in the 22nd International Symposium on Research in Attacks, Intrusions and Defenses*, September 2019.
+1. [**NDSS'21**] **Zhenxiao Qi**, Qian Feng, Yueqiang Cheng, Mengjia Yan, Peng Li, Heng Yin, and Tao Wei, [SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf), *to appear in the Network and Distributed System Security Symposium*, February 2021.
+2. [**RAID'19**] Ali Davanian, **Zhenxiao Qi**, Yu Qu, and Heng Yin, [DECAF++: Elastic Whole-System Dynamic Taint Analysis](https://www.cs.ucr.edu/~heng/pubs/DECAF++.pdf), *in the 22nd International Symposium on Research in Attacks, Intrusions and Defenses*, September 2019.
 
 ## Professional Services
 
