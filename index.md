@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="portrait4x3.jpg">
+<img class="profile-picture" src="portrait1x1.jpg">
 
 I am a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am lucky to be supervised by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
 
