@@ -6,7 +6,7 @@ baseurl: "https://enlighten5.github.io"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id: UA-191973079-1
 
 footer: no
 footer_url: "https://github.com/ankitsultana"
