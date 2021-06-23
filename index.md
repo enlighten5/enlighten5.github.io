@@ -17,6 +17,7 @@ Current research interest: bridge the semantic gap between raw memory bytes and 
 
 ## News
 
+**Jun/2021**:  First day of my research intern at Google!    
 **Dec/2020**:  Our work SpecTaint is accepted to NDSS'21.    
 **Jul/2020**:    Passed my Ph.D. candidacy exam!    
 **Aug/2019**:  Our paper DECAF++ was accepted to RAID'19.    
