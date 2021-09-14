@@ -13,7 +13,7 @@ I am a 3rd-year Computer Science Ph.D. candidate at University of California, Ri
 My research interests focus on computer security. I work on various program analysis techniques (dynamic emulation/virtualization, logic inference, etc.) to solve security-related problems, including vulnerability/gadget discovery, memory forensics, etc.   
 
 
-Current research interest: bridge the semantic gap between raw memory bytes and structural kernel objects for memroy fornesics. 
+Current research interest: bridge the semantic gap between raw memory bytes and structural kernel objects for memory forensics. 
 
 ## News
 
