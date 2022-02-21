@@ -30,7 +30,7 @@ Current research interest: bridge the semantic gap between raw memory bytes and 
 
 ## Publications
 
-1. [**NDSS'22**] **Zhenxiao Qi**, Yu Qu, Heng Yin, [LogicMem: Automatic Profile Generation for Binary-Only Memory Forensics via Logic Inference](https://www.cs.ucr.edu/~heng/publication.html), *to appear in the Network an Distributed system Security symposium*, February 2022.
+1. [**NDSS'22**] **Zhenxiao Qi**, Yu Qu, Heng Yin, [LogicMem: Automatic Profile Generation for Binary-Only Memory Forensics via Logic Inference](https://www.cs.ucr.edu/~heng/pubs/LogicMem-ndss22.pdf), *to appear in the Network an Distributed system Security symposium*, February 2022.
 2. [**NDSS'21**] **Zhenxiao Qi**, Qian Feng, Yueqiang Cheng, Mengjia Yan, Peng Li, Heng Yin, and Tao Wei, [SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf), *to appear in the Network and Distributed System Security Symposium*, February 2021.
 3. [**RAID'19**] Ali Davanian, **Zhenxiao Qi**, Yu Qu, and Heng Yin, [DECAF++: Elastic Whole-System Dynamic Taint Analysis](https://www.cs.ucr.edu/~heng/pubs/DECAF++.pdf), *in the 22nd International Symposium on Research in Attacks, Intrusions and Defenses*, September 2019.
 
