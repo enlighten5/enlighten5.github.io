@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait1x1.jpg">
 
-I am a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am lucky to be supervised by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
+I am a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am lucky to be advised by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
 
 ## Research Interest
 
@@ -36,6 +36,6 @@ Current research interest: bridge the semantic gap between raw memory bytes and 
 
 ## Professional Services
 
-* Reviewer: [Cybersecurity](https://cybersecurity.springeropen.com/)
+* Reviewer: [Cybersecurity](https://cybersecurity.springeropen.com/), [Computers and Security](https://www.journals.elsevier.com/computers-and-security), [Journal of Cyber Security Technology](https://www.tandfonline.com/toc/tsec20/current).
 * Sub-reviewer: USENIX Security'21, DIMVA'19
 * Artifact Evaluation: ACSAC'19 / '20
