@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait1x1.jpg">
 
-I am a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am lucky to be advised by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
+I am a 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am lucky to be advised by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
 
 ## Research Interest
 
