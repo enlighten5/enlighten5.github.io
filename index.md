@@ -6,14 +6,11 @@ layout: default
 
 <img class="profile-picture" src="portrait1x1.jpg">
 
-I am a 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am lucky to be advised by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
+I am a 5th-year Computer Science Ph.D. candidate at the University of California, Riverside (UCR). I am lucky to be advised by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
 
 ## Research Interest
 
-My research interests focus on computer security. I work on various program analysis techniques (dynamic emulation/virtualization, logic inference, etc.) to solve security-related problems, including vulnerability/gadget discovery, memory forensics, etc.   
-
-
-Current research interest: bridge the semantic gap between raw memory bytes and structural kernel objects for memory forensics. 
+My research interests focus on binary analysis and threat detection. I developed various program analysis techniques (e.g., dynamic taint analysis, concolic execution, hybrid fuzzing, memory analysis, etc.) to solve security-related problems, including vulnerability/gadget discovery, kernel rootkit detection, memory forensics, etc.
 
 ## News
 
